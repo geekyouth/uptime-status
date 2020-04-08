@@ -7,7 +7,7 @@
 <http://java666.cn/uptime-status/>  
 
 ## 预览：  
-![](.pic/view.png)  
+![](.pic/V1.1.png)  
 
 ## 如何复用这个项目？  
 1- fork 一份到你的 github 账号下；  
@@ -16,6 +16,21 @@
 3- 打开github-pages，你就可以愉快的体验了。  
 ![](.pic/psges.png)   
 
+## 本地调试：
+需要使用 node.js 安装 http-server 模块，然后开启 http 服务预览：  
+`http-server -p 8066 -a localhost`
+
+![](.pic/http-server.png)
+
 ## 说明：
 
 本项目是来自原作的简化版：<https://github.com/yb/uptime-status>
+
+## 更新：
+V1.1：  
+    - 加入自定义页脚；    
+    - 补充调试文档；  
+    - 加入页脚；  
+    
+V1：  
+   - 上线
