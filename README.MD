@@ -11,7 +11,7 @@
 
 ## 如何复用这个项目？  
 1- fork 一份到你的 github 账号下；  
-2- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 Read-Only key,如下图；  
+2- 修改配置文件：config.js，主要是修改 apikey 内容，强烈建议使用 Read-Only key,<https://uptimerobot.com/dashboard#mySettings> 如下图；  
 ![](.pic/warn.png)  
 3- 打开github-pages，你就可以愉快的体验了。  
 ![](.pic/psges.png)   
