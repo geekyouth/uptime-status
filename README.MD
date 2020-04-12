@@ -4,7 +4,8 @@
 
 
 ## 在线体验：  
-<http://java666.cn/uptime-status/>  
+完整版：<https://up.java666.cn/>  
+简化版：<http://java666.cn/uptime-status/>  
 
 ## 预览：  
 ![](.pic/V1.1.png)  
