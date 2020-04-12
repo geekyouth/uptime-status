@@ -5,10 +5,11 @@
 
 ## 在线体验：  
 完整版：<https://up.java666.cn/>  
-简化版：<http://java666.cn/uptime-status/>  
+![](.pic/up.java666.cn.png)  
 
-## 预览：  
+简化版：<http://java666.cn/uptime-status/>  
 ![](.pic/V1.1.png)  
+
 
 ## 如何复用这个项目？  
 1- fork 一份到你的 github 账号下；  
@@ -28,10 +29,13 @@
 本项目是来自原作的简化版：<https://github.com/yb/uptime-status>
 
 ## 更新：
+V1.2:
+- 加入 https://up.java666.cn
+
 V1.1：  
-    - 加入自定义页脚；    
-    - 补充调试文档；  
-    - 加入页脚；  
-    
+- 加入自定义页脚；    
+- 补充调试文档；  
+- 加入页脚；  
+
 V1：  
-   - 上线
+- 上线
