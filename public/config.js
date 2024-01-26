@@ -19,15 +19,15 @@ window.Config = {
   Navi: [
     {
       text: '主页',
-      url: 'https://java666.cn/uptime-status/'
+      url: 'https://up.java666.cn'
     },
     {
       text: 'GitHub',
-      url: 'https://github.com/geekyouth/uptime-status/'
+      url: 'https://github.com/geekyouth/uptime-status'
     },
     {
       text: '导航',
-      url: 'https://home.java666.cn/'
+      url: 'https://home.java666.cn'
     },
   ],
 };
